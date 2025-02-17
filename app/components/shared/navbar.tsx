@@ -5,10 +5,10 @@ function Navbar() {
 // const [menuBar,setMenuBar] = useState(false)
   return (
     <div>
-      <div className='flex justify-between items-center px-4 h-16 bg-red-400'>
+      <div className='flex justify-between items-center px-4 h-10 bg-[#bf3232]'>
       <div>
-      <Link href="/" className='flex gap-2 '>
-      <h1>SenpaiFlixx</h1>
+      <Link href="/" className='flex gap-2 items-center'>
+      <h1 className='font-bold text-2xl text-white'>SenpaiFlixx</h1>
       image
       </Link>
       </div>
