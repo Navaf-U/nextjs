@@ -1,7 +1,11 @@
-import React from 'react'
+import React from "react";
 
 export default function s() {
   return (
-    <div>Ys kk</div>
-  )
+    <div>
+      <div>Ys kk</div>
+      <br />
+      <h1>iykyk</h1>
+    </div>
+  );
 }
